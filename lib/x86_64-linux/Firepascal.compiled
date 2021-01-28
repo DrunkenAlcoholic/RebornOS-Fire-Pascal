@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1601933129"/>
+  <Params Value=" -MObjFPC -Scghi -CX -Cg -O3 -XX -l -vewnhibq &quot;-Fi/home/drunken/Git Development/rebornos-fire-pascal/lib/x86_64-linux&quot; -Fu/home/drunken/Downloads/ECC-Controls-Lazarus/EC_Controls/lib/x86_64-linux -Fu/usr/lib/lazarus/components/ideintf/units/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/components/lazcontrols/lib/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/components/datetimectrls/lib/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/packager/units/x86_64-linux &quot;-Fu/home/drunken/Git Development/rebornos-fire-pascal/&quot; &quot;-FU/home/drunken/Git Development/rebornos-fire-pascal/lib/x86_64-linux/&quot; &quot;-FE/home/drunken/Git Development/rebornos-fire-pascal/bin/&quot; &quot;-o/home/drunken/Git Development/rebornos-fire-pascal/bin/Firepascal&quot; -dLCL -dLCLgtk2 Firepascal.lpr"/>
+</CONFIG>
