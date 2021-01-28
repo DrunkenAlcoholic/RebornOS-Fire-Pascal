@@ -12,4 +12,4 @@
    - [ ] Roll Back
    
    ### Screen Shots
-![alt text](./Screenshots/SceenShot-RebornOS-FIRE-Pascal.png)
+![alt text](./ScreenShots/SceenShot-RebornOS-FIRE-Pascal.png)
