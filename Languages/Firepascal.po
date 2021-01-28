@@ -10,42 +10,34 @@ msgid "RebornOS-FIRE-Pascal"
 msgstr ""
 
 #: tform1.gbbrave.caption
-msgctxt "tform1.gbbrave.caption"
 msgid "Brave"
 msgstr ""
 
 #: tform1.gbchromium.caption
-msgctxt "tform1.gbchromium.caption"
 msgid "Chromium "
 msgstr ""
 
 #: tform1.gbfalkon.caption
-msgctxt "tform1.gbfalkon.caption"
 msgid "Falkon"
 msgstr ""
 
 #: tform1.gbfirefox.caption
-msgctxt "tform1.gbfirefox.caption"
 msgid " Firefox "
 msgstr ""
 
 #: tform1.gbgooglechrome.caption
-msgctxt "tform1.gbgooglechrome.caption"
 msgid "Google Chrome"
 msgstr ""
 
 #: tform1.gblibrewolf.caption
-msgctxt "tform1.gblibrewolf.caption"
 msgid "LibreWolf"
 msgstr ""
 
 #: tform1.gbopera.caption
-msgctxt "tform1.gbopera.caption"
 msgid "Opera"
 msgstr ""
 
 #: tform1.gbvivaldi.caption
-msgctxt "tform1.gbvivaldi.caption"
 msgid "Vivaldi"
 msgstr ""
 
