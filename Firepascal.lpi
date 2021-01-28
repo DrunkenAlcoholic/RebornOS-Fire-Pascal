@@ -63,7 +63,7 @@
         <CompilerOptions>
           <Version Value="11"/>
           <Target>
-            <Filename Value="Firepascal"/>
+            <Filename Value="bin/Firepascal"/>
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>

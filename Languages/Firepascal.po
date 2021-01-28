@@ -1,0 +1,223 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tform1.button1.caption
+msgid "Button1"
+msgstr ""
+
+#: tform1.caption
+msgid "RebornOS-FIRE-Pascal"
+msgstr ""
+
+#: tform1.gbbrave.caption
+msgctxt "tform1.gbbrave.caption"
+msgid "Brave"
+msgstr ""
+
+#: tform1.gbchromium.caption
+msgctxt "tform1.gbchromium.caption"
+msgid "Chromium "
+msgstr ""
+
+#: tform1.gbfalkon.caption
+msgctxt "tform1.gbfalkon.caption"
+msgid "Falkon"
+msgstr ""
+
+#: tform1.gbfirefox.caption
+msgctxt "tform1.gbfirefox.caption"
+msgid " Firefox "
+msgstr ""
+
+#: tform1.gbgooglechrome.caption
+msgctxt "tform1.gbgooglechrome.caption"
+msgid "Google Chrome"
+msgstr ""
+
+#: tform1.gblibrewolf.caption
+msgctxt "tform1.gblibrewolf.caption"
+msgid "LibreWolf"
+msgstr ""
+
+#: tform1.gbopera.caption
+msgctxt "tform1.gbopera.caption"
+msgid "Opera"
+msgstr ""
+
+#: tform1.gbvivaldi.caption
+msgctxt "tform1.gbvivaldi.caption"
+msgid "Vivaldi"
+msgstr ""
+
+#: tform1.groupbox1.caption
+msgid "Theme Colours "
+msgstr ""
+
+#: tform1.groupbox2.caption
+msgid "Enable Features "
+msgstr ""
+
+#: tform1.label1.caption
+msgctxt "tform1.label1.caption"
+msgid "System Tasks"
+msgstr ""
+
+#: tform1.label3.caption
+msgctxt "tform1.label3.caption"
+msgid "Roll Back"
+msgstr ""
+
+#: tform1.panel1.caption
+msgid "Panel1"
+msgstr ""
+
+#: tform1.pnlbtncustomization.caption
+msgid "Customization"
+msgstr ""
+
+#: tform1.pnlbtnprograms.caption
+msgid "Programs"
+msgstr ""
+
+#: tform1.pnlbtnrollback.caption
+msgctxt "tform1.pnlbtnrollback.caption"
+msgid "Roll Back"
+msgstr ""
+
+#: tform1.pnlbtnsystemtask.caption
+msgctxt "tform1.pnlbtnsystemtask.caption"
+msgid "System Tasks"
+msgstr ""
+
+#: tform1.pnlclraqua.hint
+msgid "Aqua"
+msgstr ""
+
+#: tform1.pnlclrblue.hint
+msgid "Blue"
+msgstr ""
+
+#: tform1.pnlclrbrown.hint
+msgid "Brown"
+msgstr ""
+
+#: tform1.pnlclrgreen.hint
+msgid "Green"
+msgstr ""
+
+#: tform1.pnlclrgrey.hint
+msgid "Grey"
+msgstr ""
+
+#: tform1.pnlclrorange.hint
+msgid "Orange"
+msgstr ""
+
+#: tform1.pnlclrpink.hint
+msgid "Pink"
+msgstr ""
+
+#: tform1.pnlclrpurple.hint
+msgid "Purple"
+msgstr ""
+
+#: tform1.pnlclrred.hint
+msgid "Red"
+msgstr ""
+
+#: tform1.pnlclrsand.hint
+msgid "Sand"
+msgstr ""
+
+#: tform1.pnlclrteal.hint
+msgid "Teal"
+msgstr ""
+
+#: tform1.swt.caption
+msgid "Enable Feature 1"
+msgstr ""
+
+#: tform1.swt1.caption
+msgid "Enable Feature 2"
+msgstr ""
+
+#: tform1.swt2.caption
+msgid "Enable Feature 3"
+msgstr ""
+
+#: tform1.swt3.caption
+msgid "Enable Feature 4"
+msgstr ""
+
+#: tform1.swt4.caption
+msgid "Enable Feature 5"
+msgstr ""
+
+#: tform1.swt5.caption
+msgid "Enable Feature 6"
+msgstr ""
+
+#: tform1.swtbrave.hint
+msgid "brave"
+msgstr ""
+
+#: tform1.swtchromium.hint
+msgid "chromium"
+msgstr ""
+
+#: tform1.swtdarkmodeenable.caption
+msgid "Dark Mode"
+msgstr ""
+
+#: tform1.swtfalkon.hint
+msgid "falkon"
+msgstr ""
+
+#: tform1.swtfirefox.hint
+msgid "firefox"
+msgstr ""
+
+#: tform1.swtgooglechrome.hint
+msgid "google-chrome"
+msgstr ""
+
+#: tform1.swtlibrewolf.hint
+msgid "librewolf"
+msgstr ""
+
+#: tform1.swtopera.hint
+msgid "opera"
+msgstr ""
+
+#: tform1.swtvivaldi.hint
+msgid "vivaldi"
+msgstr ""
+
+#: tform1.tsbrowsers.caption
+msgid "Browsers"
+msgstr ""
+
+#: tform1.tscustomization.caption
+msgid "tsCustomization"
+msgstr ""
+
+#: tform1.tsinternet.caption
+msgid "Internet"
+msgstr ""
+
+#: tform1.tsoffice.caption
+msgid "Office"
+msgstr ""
+
+#: tform1.tsprograms.caption
+msgid "tsPrograms"
+msgstr ""
+
+#: tform1.tsrollback.caption
+msgid "tsRollBack"
+msgstr ""
+
+#: tform1.tssystemtasks.caption
+msgid "tsSystemTasks"
+msgstr ""
+

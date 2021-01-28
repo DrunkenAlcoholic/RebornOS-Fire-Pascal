@@ -16,23 +16,23 @@ type
     Button1: TButton;
     edtStat: TEdit;
     GroupBox1: TGroupBox;
-    GroupBox10: TGroupBox;
+    gbLibrewolf: TGroupBox;
     GroupBox2: TGroupBox;
-    GroupBox3: TGroupBox;
-    GroupBox4: TGroupBox;
-    GroupBox5: TGroupBox;
-    GroupBox6: TGroupBox;
-    GroupBox7: TGroupBox;
-    GroupBox8: TGroupBox;
-    GroupBox9: TGroupBox;
+    gbFirefox: TGroupBox;
+    gbChromium: TGroupBox;
+    gbGoogleChrome: TGroupBox;
+    gbBrave: TGroupBox;
+    gbFalkon: TGroupBox;
+    gbOpera: TGroupBox;
+    gbVivaldi: TGroupBox;
     imgFirefox: TImage;
-    imgFirefox1: TImage;
-    imgFirefox2: TImage;
-    imgFirefox3: TImage;
-    imgFirefox4: TImage;
-    imgFirefox5: TImage;
-    imgFirefox6: TImage;
-    imgFirefox7: TImage;
+    imgChromium: TImage;
+    imgGoogleChrome: TImage;
+    imgBrave: TImage;
+    imgFalkon: TImage;
+    imgOpera: TImage;
+    imgVivaldi: TImage;
+    imgLibreWolf: TImage;
     Label1: TLabel;
     Label3: TLabel;
     Panel1: TPanel;
@@ -65,13 +65,13 @@ type
     swt5: TECSwitch;
     swtFirefox: TECSwitch;
     swtDarkModeEnable: TECSwitch;
-    swtFirefox1: TECSwitch;
-    swtFirefox2: TECSwitch;
-    swtFirefox3: TECSwitch;
-    swtFirefox4: TECSwitch;
-    swtFirefox5: TECSwitch;
-    swtFirefox6: TECSwitch;
-    swtFirefox7: TECSwitch;
+    swtChromium: TECSwitch;
+    swtGoogleChrome: TECSwitch;
+    swtBrave: TECSwitch;
+    swtFalkon: TECSwitch;
+    swtOpera: TECSwitch;
+    swtVivaldi: TECSwitch;
+    swtLibrewolf: TECSwitch;
     tsBrowsers: TTabSheet;
     tsOffice: TTabSheet;
     tsInternet: TTabSheet;
@@ -112,11 +112,24 @@ uses
 procedure TForm1.FormActivate(Sender: TObject);
 begin
   pnlSidebar.SetFocus;
+
+  //Check Browser that are installed
+  swtFirefox.Checked := IsPkgInstalled('firefox');
+  swtGoogleChrome.Checked := IsPkgInstalled('google-chrome');
+  swtVivaldi.Checked := IsPkgInstalled('vivaldi');
+  swtOpera.Checked := IsPkgInstalled('opera');
+  swtChromium.Checked := IsPkgInstalled('chromium');
+  swtBrave.Checked := IsPkgInstalled('brave');
+  swtFalkon.Checked := IsPkgInstalled('falkon');
+  swtLibrewolf.Checked := IsPkgInstalled('librewolf');
+
+
 end;
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  ExecuteCommand('pkexec pacman -R --noconfirm code');
+  // Just for testing ExecutCommand function
+  ShowMessage(ExecuteCommand('pkexec pacman -S --noconfirm --needed code'));
   Application.ProcessMessages;
 end;
 
