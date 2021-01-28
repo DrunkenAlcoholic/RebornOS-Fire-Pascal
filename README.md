@@ -1,3 +1,15 @@
-# rebornos-fire-pascal
+# RebornOS-FIRE-Pascal
 
-RebornOS remake of FIRE application written in pascal
+   ### Information
+   RebornOS FIRE application re-created in pascal with some extra features, goal is for a fully functional pascal version of 
+   FIRE before moving into a python version
+
+   ### TODO
+   - [ ] GUI
+   - [ ] Customization
+   - [ ] System Tasks
+   - [ ] Programs
+   - [ ] Roll Back
+   
+   ### Screen Shots
+![alt text](./Screenshots/SceenShot-RebornOS-FIRE-Pascal.png)
